@@ -3,8 +3,8 @@
 %-----------------------------------------------------%
 
 % Define hyperparameters
-num_iterations = 1000;
-hidden_layer_size = 5;
+num_iterations = 200;
+hidden_layer_size = 3;
 num_params = 5;
 learning_rate = 0.1;
 
